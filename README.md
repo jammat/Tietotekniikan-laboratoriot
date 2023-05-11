@@ -1,3 +1,3 @@
 # Tietotekniikan Laboratoriot
-**Matopeli** 2op </br>
-**Langtonin Muurahainen** 2op
+**Langtonin Muurahainen** 2op </br>
+**Matopeli** 2op
